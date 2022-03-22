@@ -1,4 +1,3 @@
-
 [rsschool-cv](https://sarkhan07.github.io/portfolio/ 'Описание')
 
 ## **Sarkhan Abdullayev**
@@ -62,9 +61,9 @@ return arr;
 
 #### **Education**
 
--   Tefekkur University, Diploma | Baku (2009-2013), Philology, Journalism
+-   Tefekkur University, Diploma, Baku (2009-2013), Philology, Journalism
 
--   Odlar Yurdu University, Master's degree | Baku (2014-2016), Master of Business and Business Administration, International Economic Relations.
+-   Odlar Yurdu University, Master's degree, Baku (2014-2016), Master of Business and Business Administration, International Economic Relations.
 
 -   beONmax online educational platform:
 
@@ -76,6 +75,3 @@ return arr;
     -   JavaScript course
 
 *   RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
-
-
-

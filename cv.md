@@ -86,4 +86,4 @@ return arr;
 
     -   My level between B1 Intermediate and B2 Upper Intermediate/Upper-intermediate (according to the online test at EFset Logo www.efset.org)
 
-    ![mountains](/rsschool-cv/unnamed.png 'Пейзаж с горами')
+        ![](/rsschool-cv/unnamed.png)

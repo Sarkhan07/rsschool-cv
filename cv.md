@@ -1,5 +1,3 @@
-[rsschool-cv](https://sarkhan07.github.io/portfolio/ 'Описание')
-
 ## **Sarkhan Abdullayev**
 
 ### **_Junior Frontend Developer_**
@@ -61,17 +59,31 @@ return arr;
 
 #### **Education**
 
--   Tefekkur University, Diploma, Baku (2009-2013), Philology, Journalism
+-   Tefekkur University, Diploma, Baku (2009-2013)
 
--   Odlar Yurdu University, Master's degree, Baku (2014-2016), Master of Business and Business Administration, International Economic Relations.
+    -   Philology, Journalism
 
--   beONmax online educational platform:
+-   Odlar Yurdu University, Master's degree, Baku (2014-2016)
+    -   Master of Business and Business Administration, International Economic Relations.
+
+*   beONmax online educational platform
 
     -   Web development
     -   JavaScript (basic)
     -   Bootstrap
 
--   CODELIBER
+*   CODELIBER
     -   JavaScript course
 
-*   RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+-   RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+#### **Languages**
+
+-   Azerbaijan - Native
+-   Russian - Native
+-   Turkish - Fluent
+-   English - Intermediate
+
+    -   My level between B1 Intermediate and B2 Upper Intermediate/Upper-intermediate (according to the online test at EFset Logo www.efset.org)
+
+    ![mountains](/rsschool-cv/unnamed.png 'Пейзаж с горами')
